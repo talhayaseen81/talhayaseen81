@@ -32,6 +32,9 @@
 
 ##  GitHub Stats
 ![Talha's GitHub stats](https://github-readme-stats.vercel.app/api?username=talhayaseen81&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=talhayaseen81&layout=compact&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com?user=talhayaseen81&theme=radical)](https://git.io/streak-stats)
+
 *(Add dynamic badges to show commit streaks, languages, etc.)*
 
 ---
