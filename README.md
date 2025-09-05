@@ -1,5 +1,5 @@
 # Hi, I'm Talha Yaseen 👋
-**Student @ Universität Koblenz | Aspiring Data Analyst**
+**Student at Universität Koblenz | Aspiring Data Analyst**
 
 ---
 
@@ -7,13 +7,15 @@
 - 🎓 Studying Web & Data Science at Universität Koblenz  
 - 👀 Currently looking for internships in Data Analytics  
 - 💬 Ask me about Python, Pandas, data visualization, and machine learning  
-- 📫 How to reach me: [your-email@example.com](mailto:talhayaseen8421@gmail.com)  
+- 📫 How to reach me: [talhakhan8421@gmail.com](mailto:talhakhan8421@gmail.com)  
 - 🌱 I’m currently learning: SQL, R, Tableau, and advanced ML techniques  
 - ⚡ Fun fact: I love turning data into stories!
 
 ---
 
-##  Technologies & Tools
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> </p>
+
 
 | Programming | Data & Visualization | Web & DevOps |
 |-------------|----------------------|--------------|
