@@ -43,9 +43,9 @@
 ##  Featured Projects
 - **[Weather_Data_Analysis_With_Python](https://github.com/talhayaseen81/Weather_Data_Analysis_With_Python)** – Quick summary highlighting datasets, tools used, and key results.  
 - **[Analyzing-Historical-Stock-Revenue-Data](https://github.com/talhayaseen81/Analyzing-Historical-Stock-Revenue-Data-and-Building-a-Dashboard)** – Focus on real-world problem solving or domain relevance.  
-- **[Excel_Coffee_Sales_Dashboard](https://github.com/talhayaseen81/Coffee_Sales_Dashboard)**
-- **[Excel_Data_Sciece_Jobs_Salary_Dashboard](https://github.com/talhayaseen81/Data_Sciece_Jobs_Salary_Dashboard)**
-- **[IBM_Cognos_Auto_Sales_Dashboard](https://github.com/talhayaseen81/IBM_Cognos_Auto_Sales_Dashboard)**
+- **[Excel_Coffee_Sales_Dashboard](https://github.com/talhayaseen81/Coffee_Sales_Dashboard)** – Built an interactive Excel dashboard to track coffee sales trends and KPIs for business insights.
+- **[Excel_Data_Sciece_Jobs_Salary_Dashboard](https://github.com/talhayaseen81/Data_Sciece_Jobs_Salary_Dashboard)** – Visualized data science job market salaries with Excel dashboards to highlight patterns and career insights.
+- **[IBM_Cognos_Auto_Sales_Dashboard](https://github.com/talhayaseen81/IBM_Cognos_Auto_Sales_Dashboard)** – Designed a dynamic IBM Cognos Analytics dashboard to monitor auto sales performance and regional trends.
 ---
 
 ##  GitHub Stats
