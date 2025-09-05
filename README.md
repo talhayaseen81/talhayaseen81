@@ -7,7 +7,7 @@
 - 🎓 Studying Web & Data Science at Universität Koblenz  
 - 👀 Currently looking for internships in Data Analytics  
 - 💬 Ask me about Python, Pandas, data visualization, and machine learning  
-- 📫 How to reach me: [your-email@example.com](mailto:your-email@example.com)  
+- 📫 How to reach me: [your-email@example.com](mailto:talhayaseen8421@gmail.com)  
 - 🌱 I’m currently learning: SQL, R, Tableau, and advanced ML techniques  
 - ⚡ Fun fact: I love turning data into stories!
 
@@ -26,8 +26,9 @@
 ##  Featured Projects
 - **[Weather_Data_Analysis_With_Python](https://github.com/talhayaseen81/Weather_Data_Analysis_With_Python)** – Quick summary highlighting datasets, tools used, and key results.  
 - **[Analyzing-Historical-Stock-Revenue-Data](https://github.com/talhayaseen81/Analyzing-Historical-Stock-Revenue-Data-and-Building-a-Dashboard)** – Focus on real-world problem solving or domain relevance.  
-*(Pin these projects to appear at the top of your profile.)*
-
+- **[Excel_Coffee_Sales_Dashboard](https://github.com/talhayaseen81/Coffee_Sales_Dashboard)**
+- **[Excel_Data_Sciece_Jobs_Salary_Dashboard](https://github.com/talhayaseen81/Data_Sciece_Jobs_Salary_Dashboard)**
+- - **[IBM_Cognos_Auto_Sales_Dashboard](https://github.com/talhayaseen81/IBM_Cognos_Auto_Sales_Dashboard)**
 ---
 
 ##  GitHub Stats
@@ -35,7 +36,7 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=talhayaseen81&layout=compact&theme=radical)
 [![GitHub Streak](https://streak-stats.demolab.com?user=talhayaseen81&theme=radical)](https://git.io/streak-stats)
 
-*(Add dynamic badges to show commit streaks, languages, etc.)*
+
 
 ---
 
