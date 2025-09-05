@@ -31,7 +31,7 @@
 ---
 
 ##  GitHub Stats
-![Your GitHub Stats](link-to-github-readme-stats-badge)
+![Talha's GitHub stats](https://github-readme-stats.vercel.app/api?username=talhayaseen81&show_icons=true&theme=radical)
 *(Add dynamic badges to show commit streaks, languages, etc.)*
 
 ---
